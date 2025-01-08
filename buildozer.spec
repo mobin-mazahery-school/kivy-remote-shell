@@ -7,7 +7,7 @@ title = Kivy Remote Shell
 package.name = remoteshell
 
 # package domain (mostly used for android/ios package)
-package.domain = org.kivy
+package.domain = org.kivy.remoteshell
 
 # indicate where the source code is living
 source.dir = .
@@ -30,7 +30,7 @@ android.accept_sdk_license=True
 android.wakelock=True
 orientation=portrait
 fullscreen=True
-p4a.branch = develop
+p4a.branch = release-2022.12.20
 
 #presplash.filename= 
 
