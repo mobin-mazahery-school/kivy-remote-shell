@@ -30,7 +30,7 @@ android.accept_sdk_license=True
 android.wakelock=True
 orientation=portrait
 fullscreen=True
-p4a.branch = release-2022.12.20
+p4a.source_dir = /github/workspace/python-for-android
 
 #presplash.filename= 
 
